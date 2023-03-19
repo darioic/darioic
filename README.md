@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi Github! 👋
 
 - 🎒 I'm currently studying 4th year of telecommunication engineering in ETSETB. 
 - 🙌 I'm a big passionate of programming, so here I leave the projects I have done!
