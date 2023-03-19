@@ -12,7 +12,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=darioic&show_icons=true&theme=radical)       [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darioic&theme=radical)](https://github.com/darioic/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=darioic&theme=gotham&repo=LineEditor)](https://github.com/anuraghazra/LineEditor)
 
 
 <!--
