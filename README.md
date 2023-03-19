@@ -1,5 +1,6 @@
-![](https://komarev.com/ghpvc/?username=darioic)
 ### Hi Github! 👋
+
+![](https://komarev.com/ghpvc/?username=darioic)
 
 - 🎒 I'm currently studying 4th year of telecommunication engineering in ETSETB. 
 - 🙌 I'm a big passionate of programming, so here I leave the projects I have done!
