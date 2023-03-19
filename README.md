@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 🎒 I'm currently studying 4th year of telecommunication engineering in ETSETB. 
+- 🙌 I'm a big passionate of programming, so here I leave the projects I have done!
+- 📚 I’m currently learning Haskell
+- ✍️ I'm also looking for the opportunity to do an internship in a company and to.
+- 👯 I’m looking to collaborate on software developing projects
+- 📫 How to reach me: dimbernon3@gmail.com
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=darioic&show_icons=true&theme=gotham)
